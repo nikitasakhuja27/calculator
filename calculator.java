@@ -16,6 +16,7 @@ import java.util.Scanner;
            System.out.print("4. Division\n");
            System.out.print("5. Exit\n\n");
            System.out.print("Enter Your Choice : ");
+	   System.out.println("Calculations Completed");
            choice = scan.next().charAt(0);
            switch(choice)
             {
